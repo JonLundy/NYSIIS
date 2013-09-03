@@ -1,0 +1,8 @@
+New York State Identification and Intelligence System
+
+Convert a name to a phonetic coding of up to six characters.
+  
+Robert L. Taft, Name Search Techniques, New York State Identification and Intelligence System, Special Report No. 1, Albany, New York, 1970.
+Author: Paul E. Black paul.black@nist.gov http://hissa.nist.gov/~black/
+  
+Note: This is my first attempt in contributing code. I used this algorithem in learning python. 
